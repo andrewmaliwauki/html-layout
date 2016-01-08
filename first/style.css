@@ -1,0 +1,48 @@
+.header {
+  background-color: #444444;
+  width: auto;
+  text-align: center;
+  text-indent: -99999px;
+  height: 180px;
+}
+
+body {
+  width: 100%;
+  height: 1024px;
+  background-color: #d8d8d8;
+  margin: auto;
+  padding: 0px;
+  /*border: 2px solid white;*/
+}
+
+.whiteBox {
+  width: 75%;
+  height: 764px;
+  background-color: white;
+  margin: auto;
+  text-indent: -99999px;
+}
+
+.footer {
+  width: 75%;
+  height: 80px;
+  background-color: #222222;
+  text-indent: -99999px;
+  margin: auto;
+}
+
+.left {
+  float: left;
+  width: 12.5%;
+  height: 844px;
+  text-indent: -99999px;
+  background-color: #d8d8d8;
+}
+
+.right {
+  float: right;
+  width: 12.5%;
+  height: 844px;
+  background-color: #d8d8d8;
+  text-indent: -99999px;
+}
